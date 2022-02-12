@@ -22,7 +22,7 @@ loadstring(game:HttpGet("https://raw.githubusercontent.com/deeeity/mercury-lib/m
 
 ... more to be added.
 
-Created by [Deity#0228] and [Abstract#8007]
+Created by [AAAAAXfda]
 
 ## Documentation
 
